@@ -1,3 +1,7 @@
+
+
+
+
 # 🦖 Chrome Dino AI — Local Decision Model Experiment
 
 An experiment exploring whether **local AI decision models running through Ollama** can control the Chrome Dino game in real time.
@@ -6,7 +10,7 @@ An experiment exploring whether **local AI decision models running through Ollam
 
 Watch the AI controlling Chrome Dino:
 
-[▶️ Watch the Demo](./assets/demo.mov)
+[Demo.mp4](https://github.com/user-attachments/assets/e62de538-9fc5-45b3-acb7-abea1ec5e154)
 
 The project combines:
 
