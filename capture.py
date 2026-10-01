@@ -3,7 +3,7 @@ import time
 
 time.sleep(3)
 
-GAME_REGION = (400, 350, 850, 170)
+GAME_REGION = (500, 300, 850, 170)
 
 img = pyautogui.screenshot(region=GAME_REGION)
 
